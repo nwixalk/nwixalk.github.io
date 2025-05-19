@@ -8823,3 +8823,4 @@ video.unrulymedia.com, 475093422, RESELLER
 triplelift.com, 13907, RESELLER, 6c33edb13117fd86
 sharethrough.com, veuioj8F, RESELLER, d53b998a7bd4ecd2
 facebook.com, 1251386256521410, DIRECT, c3e20eee3f780d68
+google.com, pub-7783339863985824, DIRECT, f08c47fec0942fa0
