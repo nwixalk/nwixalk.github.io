@@ -9994,3 +9994,4 @@ indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 smartadserver.com, 4865, RESELLER
 lijit.com, 516513, RESELLER, fafdf38b16bf6b2b
 pubnative.net, 1010072, RESELLER, d641df8625486a7b
+facebook.com, 1251386256521410, DIRECT, c3e20eee3f780d68
